@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  
+    "compilerOptions": {
+      // 기타 설정들...
+      "types": ["jest"]
+    }
+  
+  
+}
